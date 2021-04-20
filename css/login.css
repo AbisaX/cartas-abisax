@@ -1,0 +1,26 @@
+#logo {
+width: 20%;
+height: 20%;
+}
+body{
+    background-color: rgb(145, 105, 105);
+}
+div {
+    text-align: center;
+    background-color: rgb(145, 105, 105);
+    
+}
+
+div div{
+    font-family: algerian,arial,helvetica;
+}
+button{
+    font-family: algerian,arial,helvetica;
+}
+label{
+    display: inline-block;
+    width: 100px;
+    padding: 6px;
+  }
+
+;
