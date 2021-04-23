@@ -26,10 +26,10 @@ const login = async (url, id, ic) => {
                         localStorage.setItem("usuario", e);
                         window.location = "contenido.html";
                     }else{
-                        alert("eres bruto o te haces");
+                        alert("error de clave");
                     }
                 }else{
-                    alert("vete puto hacker");
+                    alert("error de usuario");
                 }
             });
         }
